@@ -6,3 +6,17 @@ Cryptopunks is a collection of 10,000 unique 8-bit characters, each with their o
 
 # General Architecture of GANs
 ![](https://github.com/SalehAhmad1/CryptoGANs/blob/main/GAN%20Architecture/Gan%20Architecture.png)
+
+# Results 
+Convolutional networks
+generate outcomes that are significantly superior to those of plain feed forward networks. Compared
+to images generated using feed forward networks, those generated using convolutional networks are
+significantly sharper and more defined. Convolutional Networks also resulted in a significantly lower
+fake score.
+
+# Future Work
+To create even better photos of CryptoPunks in the future, we might investigate the usage of different
+architectures like Stacked GANs or Wasserstein GANs (WGANs). We might also try utilizing varia-
+tional auto encoders (VAE) to create images of other distinctive figures or things. To further enhance
+the findings acquired, we might further look at the usage of other optimization techniques or data
+augmentation approaches.
