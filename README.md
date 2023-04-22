@@ -5,4 +5,4 @@ CryptoGANs is a deep learning project that uses two different architectures for 
 Cryptopunks is a collection of 10,000 unique 8-bit characters, each with their own distinct traits and characteristics. The goal of this project is to regenerate these Cryptopunks characters with GANs and create new and unique punk inspired art.
 
 General Architecture of GANs
-![GAN Architecture](../GAN Architecture/Gan Architecture.png)
+![GAN Architecture](/GAN Architecture/Gan Architecture.png)
